@@ -70,3 +70,7 @@
 
     git checkout <hach>
 
+Вернуться в последнию фиксацию:
+
+    git checkout master
+
